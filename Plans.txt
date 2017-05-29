@@ -1,0 +1,8 @@
+1.Washer/Dryer sms alarm
+2.Remote Door opener with Camera
+3.text/push alert on door/windows open 
+4.Oven status (turn on/off and status) 
+5.Temprature adjust
+6.Remote light control 
+7.Remote Alarm 
+8.smart light auto off control 
